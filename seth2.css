@@ -1,0 +1,28 @@
+#a,#b,#c{
+    height:490px;
+    width: 300px;
+    border: 1px solid black;
+    display: inline-block;
+    margin: 30px 10px;
+    overflow: hidden;
+   
+}
+[src]{
+    height: 200px;
+    width: 300px;
+}div{ margin: 150px 20px;
+    height:620px;
+    width: 75%;
+    border: 1px solid black;
+    background-color:whitesmoke;
+}#a{
+    background-color: lightgreen;
+}#b{
+    background-color: royalblue;
+}#c{
+    background-color:darkslategray;
+}h1{
+    color:mediumblue
+}body{
+    background-image: url("https://images.pexels.com/photos/2768961/pexels-photo-2768961.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+}
